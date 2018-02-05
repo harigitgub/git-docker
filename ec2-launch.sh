@@ -1,5 +1,5 @@
 #!/bin/bash
-ami = ami-1ee65166
+ami=ami-1ee65166
 
 if [ "$ami" ==  "ami-1ee60166" ]
 then
